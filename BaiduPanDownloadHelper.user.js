@@ -16,7 +16,7 @@
 // @require        https://greasyfork.org/scripts/2599/code/gm2_port_v102.js
 
 
-// @license        GPL version 3
+// @license        GPL-3.0
 // @include        http*://yun.baidu.com/share/*
 // @include        http*://pan.baidu.com/share/*
 // @include        http*://yun.baidu.com/s/*
